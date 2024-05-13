@@ -2,19 +2,19 @@
 
 <h1 align="left">Hey, I am Anujkumar Yadav 👋 </h1>
 
-A final year B. Tech in Computer Engineering undergradate student studying at the Bajaj Institute of Technology, Wardha. I love building Full-Stack applications and I absolutely 🧡 to become a Entrepreneur and innovate a product. Some of my recent contributions - [**EmbarkCV**](https://github.com/anujkumaryadav/embarkcv). I'm a passionate self-learner, who loves exploring Technologies and building projects👨‍💻 and is looking to solve real-world problems using the the power of Technology!⚡. 
+A final year B. Tech in Computer Engineering undergradate student studying at the Bajaj Institute of Technology, Wardha. I love building Full-Stack applications and I absolutely 🧡 to become a Entrepreneur and innovate a product. Some of my recent contributions - [**SkillFlare**](https://github.com/anujkumaryadav/skillflare). I'm a passionate self-learner, who loves exploring Technologies and building projects👨‍💻 and is looking to solve real-world problems using the the power of Technology!⚡. 
 
 Apart from tech, I love contributing to Student tech communities, helping students get involved in tech communities, exploring their passion and I'm an former technical lead of the [**Google Developer Student Club - BITW**](https://gdsc.community.dev/bajaj-institute-of-technology-wardha/)
 
 - 😄 Pronouns: He/Him
 
-- ✈️ You can reach out to me on **anujkumaryadav.in@gmail.com** or **<a href="https://www.linkedin.com/in/anujkumarlyadav/">here</a>**
+- ✈️ You can reach out to me on **anujkumaryadav.dev@gmail.com** or **<a href="https://www.linkedin.com/in/anujkumarlyadav/">here</a>**
 
 - 🎤 Recent talks:  [**NIT Calicut**] event by **NIT Calicut Algozenith**.
 
 - 🥇 Grand Finalist: **Smart India Hackathon - 2022** [**Team Leader**].
 
-- 💼 Resume: [Link to my Resume](https://drive.google.com/file/d/1BDuRjLP67I4DoCLuzg2r0erjJqsyeI9X/view?usp=sharing) Actively looking for SWE Internships for Summer 2023/2024.
+- 💼 Resume: [Link to my Resume](https://drive.google.com/file/d/1BDuRjLP67I4DoCLuzg2r0erjJqsyeI9X/view?usp=sharing) Actively looking for SDE Roles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
